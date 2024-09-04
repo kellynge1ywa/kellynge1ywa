@@ -2,8 +2,9 @@
 
 ## About Me
 - I'm **Kelvin Ngeiywa**, a passionate developer focused on building impactful applications.
-- I specialize in **C#** ,**ASP.NET**, Angular and React.
+- I specialize in **C#** ,**.NET**, Angular and React.
 
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellynge1ywa&show_icons=true&theme=radical)
 
 <!--
