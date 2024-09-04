@@ -1,4 +1,4 @@
-## Hi 👋 I'm Kelvin Ngeiywa
+## Hi there👋
 
 ## About Me
 - I'm **Kelvin Ngeiywa**, a passionate developer focused on building impactful applications.
