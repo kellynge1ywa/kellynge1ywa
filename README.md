@@ -2,7 +2,7 @@
 
 ## About Me
 - I'm **Kelvin Ngeiywa**, a passionate developer focused on building impactful applications.
-- I specialize in **C#** ,**.NET**, Angular and React.
+- I specialize in **C#** ,**.NET**, Java, NodeJs ,Angular and React.
 
 
 <!--
